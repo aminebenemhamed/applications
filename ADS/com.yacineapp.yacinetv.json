@@ -1,0 +1,53 @@
+{
+	"Google": {
+
+		"AdsController": {
+			
+			"NetworkAds": "facebook",
+
+			"BannerAdmob": "ca-app-pub-5561027594829415/6027377178",
+			"InterstitialAdmob": "ca-app-pub-5561027594829415/1990368747",
+
+			"BannerFacebook": "447892579680293_461914611611423",
+			"InterstitialFacebook": "447892579680293_461915274944690",
+			
+			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
+			"Cpa": true,
+			"ImageUrl": "https://i.imgur.com/2RDDXFZ.gif", 
+      
+			"LinkCpa1" : "http://sweeps-everyday.com/BeinSport/",
+      "LinkCpa2" : "http://sweeps-everyday.com/BeinSport/",
+			
+			"watchNow": true,
+			"Rating": false
+			
+		}
+
+	},
+		"Huawei": {
+
+		"AdsController": {
+			
+					
+			"NetworkAds": "facebook",
+
+			"BannerAdmob": "ca-app-pub-5561027594829415/6027377178",
+			"InterstitialAdmob": "ca-app-pub-5561027594829415/1990368747",
+
+			"BannerFacebook": "447892579680293_461914611611423",
+			"InterstitialFacebook": "447892579680293_461915274944690",
+			
+			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
+			"Cpa": true,
+			"ImageUrl": "https://i.imgur.com/2RDDXFZ.gif", 
+      
+			"LinkCpa1" : "http://sweeps-everyday.com/BeinSport/",
+      "LinkCpa2" : "http://sweeps-everyday.com/BeinSport/",
+			
+			"watchNow": true,
+			"Rating": false
+		}
+
+	}
+	
+}
